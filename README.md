@@ -1,6 +1,7 @@
 ### Hi , I'm Vasiliy
 
 [![trophy](https://github-profile-trophy.vercel.app/?VasyaOne=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![codewars](https://www.codewars.com/users/VasyaOne/badges/small)](https://www.codewars.com/users/VasyaOne)
 <!--
 **VasyaOne/VasyaOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
