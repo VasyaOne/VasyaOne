@@ -3,12 +3,13 @@
 #### Я являюсь разработчиком iOS на языке Swift, фотографирую и занимаюсь спортом
 
 ## 🛠 Мои скилы 
-- Frontend Software Engineer: IOS
+- Frontend Software Engineer: IOS UIKit, SwiftUI, Combine
+- Figma
 - Photograpt: Lightroom 
 
 ## Контакты
 - instagram: @VasyaOne
-- mail: leonov86@gmail.com
+- e-mail: leonov86@gmail.com
 - telegram: @VasyaOne
 
 [![codewars](https://www.codewars.com/users/VasyaOne/badges/small)](https://www.codewars.com/users/VasyaOne)
