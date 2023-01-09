@@ -1,11 +1,11 @@
 # 👨🏻‍💻 Leonov Vasiliy
 
-#### Я являюсь разработчиком iOS на языке Swift, фотографирую и занимаюсь спортом
+#### Я являюсь разработчиком iOS на языке Swift
 
 ## 🛠 Мои скилы 
 - Frontend Software Engineer: IOS UIKit, SwiftUI, Combine
 - Figma
-- Photograpt: Lightroom 
+- Lightroom 
 
 ## Контакты
 - instagram: @VasyaOne
