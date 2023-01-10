@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Leonov Vasiliy
 
-#### Я являюсь разработчиком iOS на языке Swift
+#### Developer IOS
 
 ## 🛠 Мои скилы 
 - Frontend Software Engineer: IOS UIKit, SwiftUI, Combine
