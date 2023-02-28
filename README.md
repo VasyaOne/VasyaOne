@@ -1,29 +1,29 @@
-# 👨🏻‍💻 Leonov Vasiliy
+# Hello
+#### I'm Vasily Leonov, I do IOS development 👨🏻‍💻 with a focus on SwiftUI.
 
-#### Developer IOS
+## 🛠 iOS development skills
+- Swift
+- UIKit
+- SwiftUI + Combine 
+- OOP / POP / DRY / KISS / SOLID / YAGNI
+- MVC / MVVM / MVP
+- GCD / Operation
+- CoreData / FileManager / User Defaults / Realm / Keychain
+- RestAPI / JSON
+- Firebase (Auth / Firestore / Realtime database / Storage )
+- URLSession
+- Alamofire / Kingfisher
+- Animation
+- Git / GitHub / Fork
+- Figma / Photoshop / Illustrator
 
-## 🛠 Мои скилы 
-- Frontend Software Engineer: IOS UIKit, SwiftUI, Combine
-- Figma
-- Lightroom 
+## Courses / Books
 
-## Контакты
+
+## Contacts
 - instagram: @VasyaOne
 - e-mail: leonov86@gmail.com
 - telegram: @VasyaOne
 
 [![codewars](https://www.codewars.com/users/VasyaOne/badges/small)](https://www.codewars.com/users/VasyaOne)
-<!--
-**VasyaOne/VasyaOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
