@@ -3,9 +3,8 @@
 
 ## 🛠 iOS development skills
 - Swift
-- UIKit
 - SwiftUI + Combine 
-- OOP / POP / DRY / KISS / SOLID / YAGNI
+- OOP / DRY / KISS / SOLID / YAGNI
 - MVC / MVVM / MVP
 - GCD / Operation
 - CoreData / FileManager / User Defaults / Realm / Keychain
